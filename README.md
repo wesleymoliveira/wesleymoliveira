@@ -6,3 +6,8 @@
 
 -  📚  ReactJS - React Native - Java Script - Node
 -  ❤️  Learning more every day.
+
+Plan to win,
+Prepare to win,
+WORK HARD and
+Expect to  WIN.
