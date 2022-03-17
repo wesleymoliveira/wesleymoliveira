@@ -5,7 +5,8 @@
 ## [](https://github.com/wesleymoliveira) Hi👋
 
 -  📚  ReactJS - NextJs - React Native - Java Script - Node
--  ❤️  Learning more every day.
+-  ❤️   Loving learning Rust
+-  Learning more every day.
 
 Plan to win,
 Prepare to win,
