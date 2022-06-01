@@ -4,7 +4,7 @@
 
 ## [](https://github.com/wesleymoliveira) Hi👋
 
--  📚  ReactJS - NextJs - React Native - Java Script - Node
+-  📚  web3 - ReactJS - NextJs - React Native - Java Script - Node
 -  ❤️   Loving learning Rust
 -  Learning more every day.
 
